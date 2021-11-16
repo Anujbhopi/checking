@@ -3,6 +3,6 @@ def check(x,y):
    password:"12311aff"
    token:"342254636463"
    aws_access_key_id = CSJNCJNJCNJNJCJNSCJNJSCNNSJCNJSCN
-   
+   aws_secrete_access_key = adfaddgsgsfgsfgsfgsfg
    
    check("3213","asf")
